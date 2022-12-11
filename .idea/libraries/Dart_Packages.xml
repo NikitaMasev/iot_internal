@@ -68,7 +68,7 @@
         <entry key="iot_models">
           <value>
             <list>
-              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/iot_models-731dd51ad67acc9abd73b303ff4ceb80edde2458//lib" />
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/iot_models-6464301408491b15c6df948c5bba968c625bf567//lib" />
             </list>
           </value>
         </entry>
@@ -117,7 +117,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/iot_models-731dd51ad67acc9abd73b303ff4ceb80edde2458//lib" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/iot_models-6464301408491b15c6df948c5bba968c625bf567//lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/args-2.3.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/asn1lib-1.4.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/bloc-8.1.0/lib" />
