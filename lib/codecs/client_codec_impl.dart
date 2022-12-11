@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:iot_internal/iot_internal.dart';
 import 'package:iot_models/iot_models.dart';
 
-class ClientEventCodecImpl implements ClientCodec {
-  const ClientEventCodecImpl();
+class ClientCodecImpl implements ClientCodec {
+  const ClientCodecImpl();
 
   @override
   Client decode(final String data) {
