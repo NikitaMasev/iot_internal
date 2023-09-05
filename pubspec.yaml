@@ -1,14 +1,14 @@
 name: iot_internal
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: Common codecs and crypto feature for iot websocket server and client.
+version: 1.1.1
 publish_to: none
 
 environment:
-  sdk: '>=2.17.5 <3.0.0'
+  sdk: '>=3.0.0 <3.5.0'
 
 dependencies:
   #Architecture
-  bloc: ^8.1.0
+  bloc: ^8.1.2
 
   #Tools
   encrypt: ^5.0.1
@@ -19,4 +19,4 @@ dependencies:
       ref: main
 
 dev_dependencies:
-  lints: ^2.0.0
+  lints: ^2.1.1
