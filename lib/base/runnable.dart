@@ -1,3 +1,3 @@
-abstract class Runnable {
+abstract interface class Runnable {
   void run();
 }
