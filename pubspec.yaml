@@ -1,6 +1,6 @@
 name: iot_internal
 description: Common codecs and crypto feature for iot websocket server and client.
-version: 1.1.3
+version: 1.1.4
 publish_to: none
 
 environment:
@@ -16,6 +16,10 @@ dependencies:
   iot_models:
     git:
       url: https://github.com/NikitaMasev/iot_models.git
+      ref: main
+  launchable_interfaces:
+    git:
+      url: https://github.com/NikitaMasev/launchable_interfaces.git
       ref: main
 
 dev_dependencies:
